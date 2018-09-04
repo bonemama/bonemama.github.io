@@ -1,11 +1,11 @@
 # Site settings
-author: barbleane@outlook.com
-title: 
+author: B. T. Leane
+title: Bones and Code
 header-img: img/home-bg.png
 email: barbleane@outlook.com
-copyright_name: barbleane@outlook.com
+copyright_name: B. T. Leane
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Science geek learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bonemama
