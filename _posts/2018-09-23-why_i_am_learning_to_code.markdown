@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Why I am Learning to Code"
+title:      "Why I am Learning to Code."
 date:       2018-09-23 22:08:47 -0400
 permalink:  why_i_am_learning_to_code
 ---
